@@ -1,0 +1,1 @@
+The Healthcare Bot is designed to provide users with reliable and up-to-date health information, answer health-related queries, and assist in navigating healthcare services. While the bot can provide valuable insights, it is essential to consult with healthcare professionals for definitive medical advice.
